@@ -15,10 +15,14 @@
 log/
 target/
 
-# Byte Code
+# Java
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# generated files
+bin/
+gen/
