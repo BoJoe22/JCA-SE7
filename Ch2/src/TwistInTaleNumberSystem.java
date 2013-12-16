@@ -1,0 +1,13 @@
+/**
+ * Created by Josef on 12/16/13.
+ */
+class TwistInTaleNumberSystem {
+    public static void main (String args[]) {
+        int baseDecimal = 267;
+        int octVal = 0413;
+        int hexVal = 0x10B;
+        int binVal = 0b100001011;
+        System.out.println(baseDecimal + octVal);
+        System.out.println(hexVal + binVal);
+    }
+}

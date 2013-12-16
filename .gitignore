@@ -14,3 +14,10 @@
 # Maven
 log/
 target/
+
+# Java
+*.class
+
+# generated files
+bin/
+gen/
