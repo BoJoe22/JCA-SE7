@@ -3,11 +3,11 @@
  * Created by Josef on 12/17/13.
  */
 public class TwistInTheTale2_2 {
-    static void main (String[] args) {
+    public static void main (String[] args) {
         boolean b1, b2, b3, b4, b5, b6;
         b1 = b2 = b3 = true;
-        b4 = 0;
-        b5 = 'false';
-        b6 = yes;
+//        b4 = 0;
+//        b5 = 'false';
+//        b6 = yes;
     }
 }
