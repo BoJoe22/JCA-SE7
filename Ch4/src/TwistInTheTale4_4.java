@@ -23,6 +23,8 @@ public class TwistInTheTale4_4 {
         for (String val : yourArrList)
             System.out.print(val + ":");
 
+        // Below code is additional to what was presented in the book, but added for demonstration of
+        // "side effects" on reference objects in a collection.
         StringBuilder[] myArrListA = new StringBuilder[] {new StringBuilder("A"), new StringBuilder("B"),
                 new StringBuilder("C")};
 
